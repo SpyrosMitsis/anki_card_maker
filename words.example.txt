@@ -1,0 +1,12 @@
+# Danish Vocabulary Words
+# One word per line
+# Lines starting with # are comments and will be ignored
+
+# Basic nouns
+hund
+kat
+hus
+bog
+bil
+
+# Feel free to add your own words below:

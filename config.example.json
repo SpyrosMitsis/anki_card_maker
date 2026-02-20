@@ -1,0 +1,11 @@
+{
+  "words_file": "./words.txt",
+  "deck_name": "Danish vocab",
+  "model_name": "Danish",
+  "reverse_model_name": "Danish Reverse",
+  "audio_dir": "./audio",
+  "audio_cache_dir": "./audio_cache",
+  "skip_existing_audio": false,
+  "test_mode": false,
+  "generate_reverse_cards": false
+}

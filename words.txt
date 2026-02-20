@@ -1,0 +1,7 @@
+# Danish Vocabulary Words
+# One word per line
+# Lines starting with # are comments and will be ignored
+
+# Basic nouns
+hest
+
